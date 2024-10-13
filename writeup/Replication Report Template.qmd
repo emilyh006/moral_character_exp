@@ -16,9 +16,9 @@ In original experiment, the study explores how people make trait judgement evalu
 
 In this project, we would replicate the study 1 of the expermient. It would be a 2 (moral outcome: moral vs immoral) x2 (decision speed: quick vs slow) between study where the paritcpant will be either assign to moral or immoral condition and learn how two different actors quickly or slowly they reacheed to their decision. Then they would answer questionare on character evalutions of the two different actors. A challenge for this study lies in controlling for potential order effects (e.g., participants rating on an actor differently based on whether they read the other actor’s scenario first), which may require randomizing the order of stimulus presentation. 
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/emilyh006/moral_character_exp.git)
 
-[Link to original paper](#)
+[Link to original paper](https://github.com/emilyh006/moral_character_exp/blob/f5df2a9ef2facccf21e1520a3dd4da5ad1a12441/original_paper/Critcher_et_al_2013.pdf)
 
 ## Methods
 

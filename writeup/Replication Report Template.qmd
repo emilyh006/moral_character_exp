@@ -1,5 +1,5 @@
 ---
-title: "Replication of Study X  \"How Quick Decisions Illuminate Moral Character\" by Critcher et al. (2013, Social Psychological and Personality Science)"
+title: "Replication of Study \"How Quick Decisions Illuminate Moral Character\" by Critcher et al. (2013, Social Psychological and Personality Science)"
 author: "Emily Han (emh006@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
@@ -18,7 +18,7 @@ In this project, we would replicate the study 1 of the expermient. It would be a
 
 [GitHub Repository](https://github.com/emilyh006/moral_character_exp.git)
 
-[Link to original paper](https://github.com/emilyh006/moral_character_exp/blob/main/original_paper/Critcher_et_al_2013.pdf)
+[Original paper](https://github.com/emilyh006/moral_character_exp/blob/main/original_paper/Critcher_et_al_2013.pdf)
 
 ## Methods
 

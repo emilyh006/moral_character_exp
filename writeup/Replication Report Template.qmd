@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study X  \"How Quick Decisions Illuminate Moral Character\" by Critcher et al. (2013, Social Psychological and Personality Science)"
+author: "Emily Han (emh006@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -12,8 +12,13 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+In original experiment, the study explores how people make trait judgement evaluation, specifically on moral character, of the actor based on how quickly the actor reach to a moral and immoral decision. The study suggests that polarized judgments arise when decisions are made quickly—leading observers to over-attribute actions to internal traits (either pristine or corrupt character). The study matches my research interest in social cognition and in especially how social judgments are made and how does their judgements in turn reflect the prejudices and biases they have. 
 
+In this project, we would replicate the study 1 of the expermient. It would be a 2 (moral outcome: moral vs immoral) x2 (decision speed: quick vs slow) between study where the paritcpant will be either assign to moral or immoral condition and learn how two different actors quickly or slowly they reacheed to their decision. Then they would answer questionare on character evalutions of the two different actors. A challenge for this study lies in controlling for potential order effects (e.g., participants rating on an actor differently based on whether they read the other actor’s scenario first), which may require randomizing the order of stimulus presentation. 
+
+[GitHub Repository](#)
+
+[Link to original paper](#)
 
 ## Methods
 
